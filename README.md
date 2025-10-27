@@ -26,5 +26,3 @@ Each device runs in its own thread and periodically generates interrupt requests
 ✅ **Logging** — Shows when each device’s ISR (Interrupt Service Routine) completes.  
 
 ---
-
-## 🧩 Code Structure
