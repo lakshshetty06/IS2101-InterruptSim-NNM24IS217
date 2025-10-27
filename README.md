@@ -1,4 +1,4 @@
-# InterruptControllerShort
+# InterruptController
 
 A simple Java simulation of an **Interrupt Controller** handling interrupts from multiple devices (Keyboard, Mouse, and Printer).  
 The program demonstrates **multithreading**, **priority-based interrupt handling**, and **interrupt masking**.
